@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway",sans-serif;
+}
+body{
+    background: url(images/background.jpg);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+h1{
+    align-self: center;
+    width: 15rem;
+    height: 1.5rem;
+    margin: 2rem;
+    text-align: center;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.658);
+}
+.teclas{
+    gap:1rem;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+
+.tecla{
+    border: 1px solid white;
+    width: 3rem;
+    height: 1rem;
+    background-color: rgb(118, 148, 145);
+    border-radius: 5px;
+    color:rgb(0, 0, 0);
+    padding: 0.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    transition: all 0.05s;
+}
+
+.tocando{
+    transform: scale(0.5);
+    border-color: rgb(119, 42, 42);
+}
