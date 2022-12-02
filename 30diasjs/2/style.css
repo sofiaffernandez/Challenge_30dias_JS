@@ -5,6 +5,12 @@
 html{
     background: url(images/azulejo.jpg);
 }
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .reloj {
     background-color: rgb(182, 212, 212);
     width: 10rem;
