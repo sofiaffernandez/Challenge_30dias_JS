@@ -3,7 +3,7 @@
     padding: 0;
 }
 html{
-    background: url(/Challenge_30dias_JS/30diasjs/2/images/azulejo.jpg);
+    background: url(images/azulejo.jpg);
 }
 .reloj {
     background-color: rgb(182, 212, 212);
