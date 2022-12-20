@@ -7,5 +7,7 @@ https://bateriatecladod1.vercel.app/
 <br>
 Día 2: reloj de pared. (HTML, CSS, JS) <br>
 https://reloj-nu.vercel.app/
+<br>
 Día 3:Temporizador. (HTML, CSS, JS)<br>
 https://temporizador-orpin.vercel.app/
+<br>
